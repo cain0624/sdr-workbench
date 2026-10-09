@@ -1,6 +1,6 @@
-# SDR 智能工作台
+# AAS · SDR 智能工作台
 
-把会话、线索、内容与人工合规确认整合到销售工作流。
+面向保险 KOS 团队的 AAS AI 销售工作台，把咨询承接、客户画像、话术辅助、线索管理、内容生产与合规确认整合到销售工作流。
 
 **作品形态：高保真交互原型 / 演示数据**
 
@@ -12,7 +12,7 @@
 
 KOS 在多平台获客后，需要承接咨询、记录客户、推进方案并持续生产内容。多个环节分散在不同工具，会增加信息切换与记录成本。
 
-这个作品把保险销售副驾方案变成高保真工作台，重点验证功能是否进入销售原有动作链路。
+这个作品将 AAS 线上保险 KOS AI 销售工作台方案变成高保真交互原型，重点验证功能是否进入销售原有动作链路。
 
 
 
@@ -72,7 +72,7 @@ KOS 在多平台获客后，需要承接咨询、记录客户、推进方案并�
 <details>
 <summary>技术使用与原有说明（展开查看；能力边界以以上案例为准）</summary>
 
-# SDR 智能工作台
+# AAS · SDR 智能工作台
 
 面向保险意向客户的 SDR 智能工作台高保真演示原型，单文件静态页面（HTML + CSS + JS），无需构建即可运行。
 
@@ -97,6 +97,8 @@ python3 -m http.server 8000
 
 ## 在线预览
 
-GitHub Pages：https://sdr-workbench-flame.vercel.app
+GitHub Pages：https://cain0624.github.io/sdr-workbench/
+
+Vercel：https://sdr-workbench-flame.vercel.app
 
 </details>
